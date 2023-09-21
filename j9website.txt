@@ -5,3 +5,5 @@ Author: Kalai
 3.Passenger Details Page Code
 4.Travel Extras Page code
 5.Payment Details Page Code.
+6.Enter Card details.
+7.Complete the booking.
